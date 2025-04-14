@@ -18,7 +18,7 @@ Tenho aprendido a desenvolver projetos utilizando tecnologias voltadas para dese
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,php,bootstrap,tailwind,postman" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,typescript,php,bootstrap,tailwind,postman" />
   </a>
 </p>
 
