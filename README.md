@@ -1,10 +1,10 @@
 # 👨🏻‍💻 Francisco Santos
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Francisco Leandro de Lima Santos, tenho 26 anos. Concluí o ensino médio na Escola Maria Angélica Marcondes, em Pirajuí, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIMAR. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
+Me chamo Leandro, tenho 28 anos. Concluí o ensino médio na Escola Maria Angélica Marcondes, em Pirajuí, e atualmente estou cursando Análise e Desenvolvimento de Sistemas na UNIMAR. Sou apaixonado por tecnologia e estou em busca da minha primeira oportunidade na área.
 
-Tenho aprendido a desenvolver projetos utilizando tecnologias voltadas para desenvolvimento web e estou sempre estudando para aprimorar minhas habilidades. Estou empolgado para colocar meus conhecimentos em prática, contribuir com a equipe e crescer profissionalmente no setor de tecnologia.
+Tenho aprendido a desenvolver projetos utilizando tecnologias voltadas para desenvolvimento web e estou sempre estudando para aprimorar minhas habilidades.
 
 <p align="left">
   <a href="https://github.com/Borsatole?tab=repositories">
@@ -18,7 +18,7 @@ Tenho aprendido a desenvolver projetos utilizando tecnologias voltadas para dese
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,typescript,php,bootstrap,tailwind,postman" />
+    <img src="https://skillicons.dev/icons?i=git,html,css,javascript,react,nextjs,typescript,php,bootstrap,tailwind,postman,docker,nodejs," />
   </a>
 </p>
 
